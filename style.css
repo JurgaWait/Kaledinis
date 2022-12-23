@@ -108,11 +108,11 @@ div h3 {
     @keyframes sveikinimas {
         0% {left: 0px;}
         50% {left: 300px;}
-        100% {left: 100px;}
+        100% {left: 70px;}
     }
 
     div h1 {
-        left: 100px;
+        left: 70px;
     }
 }
 
