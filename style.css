@@ -102,6 +102,13 @@ div h3 {
 }
     div {
         padding-left: 35px;
+        font-size: 20px;
+        
+    }
+    @keyframes sveikinimas {
+        0% {left: 0px;}
+        50% {left: 300px;}
+        100% {left: 100px;}
     }
 
     div h1 {
@@ -113,6 +120,7 @@ div h3 {
 
     div {
         padding-left: 350px;
+
     }
         @keyframes sveikinimas {
             0% {left: 0px;}
